@@ -56,4 +56,4 @@ como su nombre lo dice desplegara todos los datos ingresados y modificados en el
 
 ---
 ### Al ingresar la opcion #5
-finalizará el programa de fomra correcta 
+finalizará el programa de fomra correcta.
